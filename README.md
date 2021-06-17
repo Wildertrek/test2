@@ -6,3 +6,5 @@
 4. save the file
 5. committed our changes and then pushed to github.com
 6. checked github.com to ensure the changes were made
+7. test out on windows
+
